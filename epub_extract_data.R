@@ -29,7 +29,7 @@ df %>%
 # 
 # files <- filenames %>% map_chr(~paste0(path,.))
 
-files <- list.files("Books", recursive = T,pattern="epub")
+files <- list.files("books", recursive = T,pattern="epub")
 
 df <- epub(paste0("books/",files),fields = c("creator","data"))
 
@@ -59,6 +59,9 @@ all_data <- data.table::rbindlist(datalist)
 
 all_data <- as_tibble(all_data) %>%
   rename(text = `text$text`)
+
+# unzip example
+epub_unzip("test.epub",exdir="books")
 
 all_data %>% 
   unnest_tokens(word,text) %>%
