@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cefeb941-c992-4649-8ef3-748c08249a4e</dc:identifier>
+        <dc:title>De ansatte</dc:title>
+        <dc:creator opf:file-as="Ravn, Olga" opf:role="aut">Olga Ravn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.10.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-25T00:00:00+00:00</dc:date>
+        <dc:description>EN ARBEJDSPLADSROMAN FRA DET 22. ÅRHUNDREDE Besætningen på Det sekstusinde skib består af menneskelige og menneskelignende ansatte. Da skibet får en række genstande ombord fra planeten Nyopdagelsen, begynder de ansatte at udvikle dybe forbindelser til genstandene, men uden helt at kunne forstå hvorfor. Snart ser besætningen sig selv i et nyt lys, og enhver ansat må spørge sig selv om arbejdsgangen kan fortsætte som før. Opbygget som en protokol med vidneudsagn forsøger den litterære science-fiction roman De ansatte at undersøge, hvad forskellen er på et menneske og en ting, og hvad det vil sige at være i live.</dc:description>
+        <dc:publisher>Gyldendal</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788702265590</dc:identifier>
+        <dc:language>dan</dc:language>
+        <dc:subject>Moderne skønlitteratur. Samtidslitteratur</dc:subject>
+        <meta content="{&quot;Olga Ravn&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-07T11:31:23.593000+00:00" name="calibre:timestamp"/>
+        <meta content="De ansatte" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -23,6 +23,7 @@ df %>%
   count(word,sort=T)
 
 # get more files
+
 # filenames <- list.files("Books", recursive = T,pattern="epub")
 # path <- "C:/Users/pech/Calibre Library/"
 # 

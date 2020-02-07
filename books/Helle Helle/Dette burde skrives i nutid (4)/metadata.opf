@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c4fb8d5-7381-41ef-8119-108a97e7b257</dc:identifier>
+        <dc:title>Dette burde skrives i nutid</dc:title>
+        <dc:creator opf:file-as="Helle, Helle" opf:role="aut">Helle Helle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.10.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Rosinante&amp;Co</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-87-638-XXXX-X</dc:identifier>
+        <dc:language>dan</dc:language>
+        <meta content="{&quot;Helle Helle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-02-07T12:20:31.956000+00:00" name="calibre:timestamp"/>
+        <meta content="Dette burde skrives i nutid" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
